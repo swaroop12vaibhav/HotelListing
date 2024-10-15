@@ -1,0 +1,8 @@
+/node_modules
+build
+
+# Ignore .env files
+.env
+.env.local
+.env.dev
+.env.prod
